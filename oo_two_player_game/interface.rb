@@ -1,5 +1,0 @@
-class Interface
-
-
-
-end
